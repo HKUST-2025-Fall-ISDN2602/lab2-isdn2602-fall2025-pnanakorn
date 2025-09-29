@@ -27,7 +27,7 @@ float yaw = 0.0f;
 
 /*------------ DO NOT Change the code ABOVE ------------*/
 /*Enable Filter*/
-bool Filter = true;           //True:  Enable
+bool Filter = false;           //True:  Enable
                               //False: Disale
 
 /*Enable Serial Plot*/
